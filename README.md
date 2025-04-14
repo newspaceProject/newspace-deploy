@@ -126,3 +126,23 @@ LG CNS AM Inspire Camp
 ```
 <br/>
 
+## 🏗️ 시스템 아키텍처
+![image](https://github.com/user-attachments/assets/aadb1e74-ba18-495b-8f6b-aef3dba589f0)
+
+## 📦 Github Repository
+전체 : https://github.com/orgs/newspaceProject/repositories
+<br>
+frontend : https://github.com/newspaceProject/newspace-frontend
+<br>
+backend : https://github.com/newspaceProject/newspace-backend
+<br>
+Gateway : https://github.com/newspaceProject/newspace-gateway
+<br>
+Eureka : https://github.com/newspaceProject/newspace-eureka
+
+## 📚 Notion
+https://www.notion.so/LG-CNS-1-19a5254cd716802b823ce385b7c067cf
+
+## 🎨 Figma
+https://www.figma.com/design/ZrXlz23EOZntJSC8bKVg39/mini01
+
